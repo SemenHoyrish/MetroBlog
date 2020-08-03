@@ -1,0 +1,176 @@
+* {
+    background-color: #fff;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.logo {
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-bottom: 20px;
+}
+
+.navbar {
+    margin-top: 30px;
+    margin-right: 240px;
+}
+
+.navbar_link {
+    color: #323332;
+    font-family: "Segoe WP";
+    font-size: 23px;
+    font-weight: 300;
+    line-height: 23px;
+    text-decoration: none;
+    margin-left: 40px;
+}
+
+#home_link {
+    padding: 10px 20px;
+    color: #ffffff;
+    background-color: #373737;
+}
+
+.banner {
+    display: flex;
+    justify-content: center;
+}
+
+.banner_text {
+    margin-top: 180px;
+    color: #5d5d5d;
+    font-family: "Segoe WP";
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 40px;
+}
+
+.banner_title {
+    margin-bottom: 0;
+}
+
+.banner_subtitle {
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.banner_img {
+    margin-top: 80px;
+    margin-left: 70px;
+}
+
+.all_news {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.main_new {
+    display: flex;
+}
+
+.main_new_img {
+    margin-right: 30px;
+    height: 100%;
+}
+
+.main_new_title {
+    margin-top: 0;
+    color: #696161;
+    font-family: "Segoe WP";
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 37px;
+}
+
+.new_text {
+    color: #848484;
+    font-family: "Segoe WP";
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+}
+
+.main_new_text {
+    max-width: 340px;
+}
+
+.arrows {
+    text-align: right;
+}
+
+.news {
+    max-width: 730px;
+}
+
+.new {
+    display: inline-table;
+    max-width: 220px;
+    margin-right: 20px;
+    margin-bottom: 60px;
+}
+
+.new_title {
+    color: #696161;
+    font-family: "Segoe WP";
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 28px;
+    margin-bottom: 0;
+}
+
+.new_author {
+    color: #848484;
+    font-family: "Segoe WP";
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+}
+
+.new_text {
+    color: #848484;
+    font-family: "Segoe WP";
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+}
+
+.ads {
+    max-width: 320px;
+    margin-left: 20px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    background-color: #393a39;
+}
+
+.footer_rights {
+    margin-top: 30px;
+    margin-right: 320px;
+    background-color: #393a39;
+}
+
+.footer_social {
+    margin-top: 30px;
+    background-color: #393a39;
+}
+
+.footer_social_img {
+    background-color: #393a39;
+}
+
+.footer_rights_text {
+    background-color: #393a39;
+    color: #ffffff;
+    font-family: "Segoe WP";
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 20px;
+}
